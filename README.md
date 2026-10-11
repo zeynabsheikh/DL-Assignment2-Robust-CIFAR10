@@ -1,7 +1,7 @@
 # Robust CIFAR-10 Classification with 500 Training Images
 
-**Course:** Deep Learning for Perception, Fall 2026 (Assignment 2, Section B)
-**Author:** YOUR NAME (Roll No: XXF-YYYY)
+**Course:** Deep Learning for Perception
+**Author:** Zainab Noor
 
 Train a small Inception-style CNN **from scratch** on only 500 CIFAR-10 images (50 per class) and test it on a **shifted** version of the CIFAR-10 test set (rotation, brightness/contrast change, occlusion and a hidden corruption).
 
