@@ -41,7 +41,7 @@ Train a small Inception-style CNN **from scratch** on only 500 CIFAR-10 images (
 
 ## How to reproduce
 
-1. Open the notebook `DL_ASS01_XXF_YYYY.ipynb` in [Google Colab](https://colab.research.google.com) (File → Upload notebook).
+1. Open the notebook in [Google Colab](https://colab.research.google.com) (File → Upload notebook).
 2. Select **Runtime → Change runtime type → T4 GPU → Save**.
 3. Select **Runtime → Run all**. The full run (6 configurations × 3 seeds) takes about 30 to 60 minutes.
 4. The notebook prints the baseline results, the ablation table, the confusion matrix, misclassified images, the hidden-corruption test and the TTA result.
